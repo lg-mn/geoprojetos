@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 shapefile_path = r'D:\projetos\data\shapefiles\brasil\RS_Municipios_2024\sul\rs\RS_Municipios_2024.shp'#mapa do arquivo com shapefiles, deve ser definido
 gdf = gpd.read_file(shapefile_path)
 
-#print(gdf.head())  # Verifica se o shapefile foi lido corretamente
+print(gdf.head())  # Verifica se o shapefile foi lido corretamente
 
 
 gdf.plot(figsize=(10,10), edgecolor='black')
