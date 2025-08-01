@@ -6,7 +6,7 @@ Os exemplos simulam atividades reais de coleta, tratamento e disponibilização 
 
 ---
 
-
+Objetivos do Projeto
 - Praticar o uso de bibliotecas de ciência de dados e geoprocessamento.
 - Demonstrar domínio básico do fluxo de versionamento de código com **Git**.
 - Organizar repositórios públicos no GitHub com exemplos de aplicação prática.
