@@ -14,7 +14,7 @@ Este repositório contém exercícios práticos de capacitação em bibliotecas 
 
 ## Estrutura do Repositório
 
-
+```
 
 ├── data/ # Dados brutos (mantido vazio no GitHub, os dados brutos podem ser baixados no Google Drive)
 ├── outputs/ # Resultados e saídas geradas (mantido vazio no GitHub, apenas para referencia)
@@ -22,7 +22,7 @@ Este repositório contém exercícios práticos de capacitação em bibliotecas 
 ├── scripts/ # Scripts Python organizados por tarefa
 └── README.md # Este arquivo
 
-
+```
 
 
 
