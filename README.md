@@ -21,6 +21,7 @@ Este repositório contém exercícios práticos de capacitação em bibliotecas 
 ├── notebooks/ # Cadernos Jupyter com análises passo a passo
 ├── scripts/ # Scripts Python organizados por tarefa
 └── README.md # Este arquivo
+|__ requirements.txt #lista de bibliotecas utilizadas
 
 ```
 
@@ -50,9 +51,8 @@ Este repositório contém exercícios práticos de capacitação em bibliotecas 
    bash
    git clone https://github.com/lg-mn/geoprojetos.git
 
-
 2. Crie um ambiente virtual (opcional).
-3. Instale as dependências:
+3. Instale as bibliotecas:
 
    bash
    pip install -r requirements.txt
@@ -63,7 +63,7 @@ Este repositório contém exercícios práticos de capacitação em bibliotecas 
 
 ## 💾 Sobre os Dados
 
-Os arquivos utilizados estão disponíveis separadamente no [Google Drive](#).
+Os arquivos utilizados em "data" e os arquivos de saida "outputs" estão disponíveis separadamente no [Google Drive].
 As pastas `data/` e `outputs/` são mantidas apenas como referência de estrutura.
 
 
