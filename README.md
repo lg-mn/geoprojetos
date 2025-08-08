@@ -15,11 +15,17 @@ Este repositório contém exercícios práticos de capacitação em bibliotecas 
 ## Estrutura do Repositório
 
 
-├── data/          # Dados brutos (mantido vazio no GitHub, os dados brutos podem ser  baixados no Google Drive) 
-├── outputs/       # Resultados e saídas geradas (mantido vazio no GitHub, apenas para referencia)
-├── notebooks/     # Cadernos Jupyter com análises passo a passo
-├── scripts/       # Scripts Python organizados por tarefa
-└── README.md      # Este arquivo
+
+├── data/ # Dados brutos (mantido vazio no GitHub, os dados brutos podem ser baixados no Google Drive)
+├── outputs/ # Resultados e saídas geradas (mantido vazio no GitHub, apenas para referencia)
+├── notebooks/ # Cadernos Jupyter com análises passo a passo
+├── scripts/ # Scripts Python organizados por tarefa
+└── README.md # Este arquivo
+
+
+
+
+
 
 
 **Nota:** Os dados brutos e de saída estão armazenados fora do repositório, no [Google Drive](#) para evitar sobrecarga no versionamento.
